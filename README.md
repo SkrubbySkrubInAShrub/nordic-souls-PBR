@@ -89,10 +89,10 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 | Minimum | Recommended |
 |-----|-----|
-| Intel i5-9400 / AMD Ryzen 5 2600x | Intel i5-13400 / AMD Ryzen 5 5600x  |
-| NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 3060 TI / AMD RX 6700 |
-| 16 GB DDR4 | 32 GB DDR4 |
-| SATA SSD | NVMe SSD |
+| Intel Core i5-13400 / AMD Ryzen 5 5600X | Intel Core Ultra 7 265K / AMD Ryzen 5 5800X3D  |
+| NVIDIA RTX 3060 12GB / AMD RX 6700 10GB | NVIDIA RTX 4070 Super 12GB / AMD RX 7900 GRE |
+| 32 GB DDR4 | 32 GB DDR4 |
+| NVMe SSD | NVMe SSD |
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
