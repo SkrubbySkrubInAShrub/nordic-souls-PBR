@@ -1,6 +1,6 @@
 # Changelog
 
-![Banner](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png)
+![Banner](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png)
 
 <p align="center">
   <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/README.md">ReadMe</a> |
