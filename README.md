@@ -1,17 +1,17 @@
-# Nordic Souls
+# Changelog
 
-![Banner](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png)
+![Banner](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png)
 
 <p align="center">
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/README.md">ReadMe</a> |
-  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus</a> |
+  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/README.md">ReadMe</a> |
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/158119">Nexus</a> |
   <a href="https://discord.com/invite/9cRs3KPyuW">Discord</a> |
   <a href="https://ko-fi.com/geborgen">Ko-fi</a> |
-  <a href="https://loadorderlibrary.com/lists/nordic-souls">Modlist</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md">FAQ</a>
+  <a href="https://loadorderlibrary.com/lists/nordic-souls-3-0-1-pbr-edition">Modlist</a> |
+  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
+  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
+  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/FAQ.md">FAQ</a>
 </p>
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
