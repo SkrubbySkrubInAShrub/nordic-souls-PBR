@@ -32,7 +32,7 @@
 
 ## Q: Why is my map purple/missing?
 
-**A:** You have a plugin loading below the paper map plugins. Either reinstall the list to restore the load order, or refer to the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
+**A:** You have a plugin loading below the paper map plugins. Either reinstall the list to restore the load order, or refer to the [modification guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
 
 ## Q: How do I change my FOV?
 
@@ -60,7 +60,7 @@
 
 ## Q: Why does this quest not start?
 
-**A:** There are likely different starting requirements. Please refer to [this](https://github.com/Geborgen/nordic-souls/blob/main/QUESTCHANGES.md) document.
+**A:** There are likely different starting requirements. Please refer to [this](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/QUESTCHANGES.md) document.
 
 ## Q: Why are no dragons spawning?
 

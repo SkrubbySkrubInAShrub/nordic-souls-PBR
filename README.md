@@ -47,7 +47,6 @@
   - [Antivirus Exeptions](#antivirus-exceptions)
   - [Customizing the List](#customizing-the-list)
     - [Optional Files](#optional-files)
-    - [ENB](#enb)
     - [Community Shaders](#community-shaders)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
@@ -73,6 +72,8 @@
 
 ## Preamble
 
+Nordic Souls - PBR is a graphics-focussed fork of Nordic Souls. The objective of this fork is to maximize visuals using CS, rather than ENB. tThis involves using higher quality assets and PBR materials. There is also a slew of QoL and immersion additions, like first person camera bobbing and skyparkour. The list aims to recreate that original nostalgia feeling of how the game looked like in our minds back when we played it 15 years ago. Including the visuals we fondly remember but were never there.
+
 Nordic Souls is a comprehensive visual and gameplay overhaul designed to modernize Skyrim while staying true to the game's Nordic theme. It provides a perfect balance between plenty of new content, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.
 
 Despite the name, this list does not attempt to "turn Skyrim into Dark Souls." This list is focused on modernizing Skyrim, not turning the game into something else.
@@ -81,9 +82,9 @@ Everything about the game is improved, but still recognizably Skyrim. Tons of ne
 
 ## List Contents
 
-The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/nordic-souls).
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/nordic-souls-3-0-1-pbr-edition).
 
-A more in-depth look at the mods used can be found in the [gameplay guide](https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md).
+A more in-depth look at the mods used can be found in the [gameplay guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md).
 
 ## System Requirements
 
@@ -94,7 +95,7 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 | 32 GB DDR4 | 32 GB DDR4 |
 | NVMe SSD | NVMe SSD |
 
-The list is a performance heavy fork of Nordic Souls, therefore expect to have lower fps. The main bottleneck is VRAM, which is why 10GB is the minimum at 1080p. Refer to the [performance section](#performance-tweaks) for more information.
+The list is a performance heavy fork of Nordic Souls, therefore expect to have lower fps. The main bottleneck is VRAM, which is why 10GB is the minimum at 1080p. Refer to the [performance section](#performance-tweaks) for more information. Use of upscaling and frame-generation is strongly recommended.
 
 The Nordic Souls installation requires a total of ~271 GB. This is broken down into a ~97 GB download size and a ~174 GB installation size. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which is roughly accounted for in the UI.
 
@@ -106,7 +107,7 @@ The Nordic Souls installation requires a total of ~271 GB. This is broken down i
 If you are just updating the list, you can safely skip to [this section](#updating-the-list).
 
 > [!TIP]  
-> I HIGHLY recommend you buy Nexus Premium before installing the list. You *technically* don't need it, but it will be an extremely long manual process if you don't have it. If you absolutely cannot buy premium, then put on a TV show or audiobook and make a day out it. 
+> We HIGHLY recommend you buy Nexus Premium before installing the list. You *technically* don't need it, but it will be an extremely long manual process if you don't have it. If you absolutely cannot buy premium, then put on a TV show or audiobook and make a day out it. 
 
 ### Anniversary Edition
 
@@ -152,7 +153,7 @@ If you have an NVIDIA graphics card, please perform the following steps to incre
 
 #### Steam Setup
 
-Nordic Souls only works with the Steam version of Skyrim. Additionally, it will only work with English versions of the game. While this may be understandably frustrating for users with different game versions or non-English speakers, there are major differences between game versions and I am only able to support one language.
+Nordic Souls only works with the Steam version of Skyrim. Additionally, it will only work with English versions of the game. While this may be understandably frustrating for users with different game versions or non-English speakers, there are major differences between game versions and We are only able to support one language.
 
 A non-English version of the game will cause problems later. To verify that your game is in English, please perform the following steps:
 1. Right click on Skyrim in Steam
@@ -186,9 +187,9 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 #### Downloading and Installing the List
 
-Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. I recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation:
+Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. We recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation:
 1. Create a folder near the root of your drive called `Nordic Souls`.
-2. Open Wabbajack, go to `Browse lists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/77497), add it to your Wabbajack folder, and open it.
+2. Open Wabbajack, go to `Browse lists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/158119), add it to your Wabbajack folder, and open it.
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Nordic Souls`).
 5. Your downloads folder should be set automatically. If it isn’t, set it to either `Nordic Souls\downloads` or another location. It can even be on another drive.
 6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 1100 mods.*
@@ -202,7 +203,7 @@ Some common errors you may encounter during installation:
   - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
   - Try logging out of Nexus (in-app) and logging in again.
 - `X` is not a whitelisted download:
-  - This may happen when I update the list. Please check if there is a new update or wait if there is none.
+  - This may happen when We update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
   - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
 - Antivirus reports a virus:
@@ -214,7 +215,7 @@ Some common errors you may encounter during installation:
 - Unable to download `Skyrim_Default.ini`:
   - Go back to the [this section](#steam-setup) section and change your game language to English.
 
-If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/9cRs3KPyuW). **Please do not ask for support before going through the above steps and reading the [FAQ](https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md).**
+If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [our server](https://discord.com/invite/9cRs3KPyuW). **Please do not ask for support before going through the above steps and reading the [FAQ](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/FAQ.md).**
 
 ## Post-Installation
 
@@ -238,9 +239,9 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Customizing the List
 
-**Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they must load **above** `Water for ENB (Shades of Skyrim).esp`. The paper map plugins should always be at the very bottom of your load order.
+**Other than what is mentioned here, modifying the list in any way will void all support.** We cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they must load **above** `Water for ENB (Shades of Skyrim).esp`. The paper map plugins should always be at the very bottom of your load order.
 
-As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's "rule 11", meaning that any modifications you make, you do so at your own risk. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
+As this may cause some confusion, We should clarify that We're not against people editing the list. All We mean is that We won't be able to help if things break. This also falls under Wabbajack's "rule 11", meaning that any modifications you make, you do so at your own risk. Visit the [modification guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md) for more information.
 
 Game settings and mod configs can be found in the `NS - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.*
 
@@ -248,24 +249,10 @@ Game settings and mod configs can be found in the `NS - Game Settings` mod under
 
 Under the `Optional Files` separator, you can enable and disable things to your liking. 
 
-If you enable [ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507),  please read the mod page for more information and to determine if your system is compatible. All required settings have been preconfigured, you just need to enable the mod and enable it in-game under the ENB menu if needed.
-
-#### ENB
-
-Nordic Souls uses the tried-and-true [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796).
-
-If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `ENVIRONMENT` category in the ENB menu.
-
-If you want to add a different preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed Rudy to MO2. This is unsupported.
-
-If you do not want to use ENB, keep it toggled off in-game or switch to the Community Shaders profile.
-
-> [!TIP]
-> In-game, press `F10` to toggle the FPS counter, `SHIFT + ENTER` to open the ENB configuration menu, `SHIFT + INSERT` to toggle ENB, and `F7` to take a screenshot.
 
 #### Community Shaders
 
-Nordic Souls includes a separate profile for [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). This provides a different aesthetic, and a customizable modular approach to shader effects. Performance is roughly the same as ENB.
+Nordic Souls PBR  [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). This provides a different aesthetic, and a customizable modular approach to shader effects.
 
 To use Community Shaders, switch to the `Nordic Souls - Community Shaders` profile using the drop-down menu located in the top of the left panel in MO2. 
 
@@ -287,11 +274,11 @@ Enable `NS - Gamepad Controlmap` under the `Gamepad Support` separator.
 
 ### Default Gamepad Bindings
 
-![Gamepad Bindings](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/gamepad.png)
+![Gamepad Bindings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/gamepad.png)
 
 Sprint and dodge are mapped to the same button. Tap it to dodge, or press and hold to sprint.
 
-Note that dodge will only work if you have the required perk. See the [gameplay guide](https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md).
+Note that dodge will only work if you have the required perk. See the [gameplay guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md).
 
 You can press `F11` in-game to access this menu at any time.
 
@@ -305,7 +292,7 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
 <details><summary>BethINI Settings (expand)</summary>
 
   ### BethINI Performance Settings
-  - First make sure your paths are correct in the `Setup` tab: Game path should be `Nordic Souls\Game Root` and Mod Organizer should be your Nordic Souls folder. INI path should be `ModOrganizer > Nordic Souls - ENB` or `ModOrganizer > Nordic Souls - Community Shaders` depending on your desired profile.
+  - First make sure your paths are correct in the `Setup` tab: Game path should be `Nordic Souls\Game Root` and Mod Organizer should be your Nordic Souls folder. INI path should be `ModOrganizer > Nordic Souls - Community Shaders`.
   - On the `Basic` tab, check `Recommended Tweaks` and then `Medium`. Disable `VSync`. Make sure your monitor's resolution matches.
   - Set `Antialiasing` to `None`. This can cause weird shimmering in-game, however.
   - On the `Detail` tab, set `Godrays` to `None`. Set `Particles` to `2000`. Disable `Lens Flare` and `Anamorphic Lens Flare`. Set `Detailed Draw Distance` to `2000` and `Exterior Draw Distance` to `6000`. Disable `Ambient Occlusion`.
@@ -316,18 +303,13 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
   
 </details>
 
-- ENB: Toggle ENB with `SHIFT + INSERT`. Completely removing ENB has caused issues for users, so keep it disabled instead.
-- ENB: Press `SHIFT + ENTER` to open the ENB menu, untick `EnableAmbientOcclusion` under `Effect` in the left column, and then `---SAVE CONFIGURATION---` at the top.
-- ENB: Enable the `ENB Frame Generation` mod under the `Optional Files` separator. Please note that unless you can get a high FPS without it and have a monitor with a high refresh rate, it won't do much for you.
-- CS: Press `END` to open the CS menu, scroll down to Light Limit Fix, click `Disable at Boot` on the top right, then go to Screen Space GI and do the same; save on the top right.
 - CPU Priority: [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129) is included to elevate CPU priority, but you need to use an [included tool](https://www.nexusmods.com/skyrimspecialedition/mods/94636) to set CPU affinity. Click the Tools (puzzle piece) icon on the top left menu in MO2, click `Set CPU Affinity`, and click `OK`. If your affinity is already set, keep it enabled.
 - External tool: [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557). Watch [this](https://www.youtube.com/watch?v=MS8vhuyeT2g) video for more information. This falls under modifying the list, meaning you are responsible for potential issues that may arise.
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
-- Pay to win:  [Lossless](https://store.steampowered.com/app/993090/Lossless_Scaling/). It acts as an upscaler, and also includes framegen. You can try it, and since it's on Steam, if it doesn't work for you, you can refund it within two weeks if you use it for less than two hours.
 
 #### Modification Guide
 
-Modifying the list in any other way is unsupported, but not unwelcome. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
+Modifying the list in any other way is unsupported, but not unwelcome. Visit the [modification guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md) for more information.
 
 ## Playing the List
 
@@ -350,13 +332,13 @@ Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown
 
 ### Default Key Bindings
 
-![Key Bindings](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/keyboardandmouse.png)
+![Key Bindings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/keyboardandmouse.png)
 
-Any key highlighted in green has `SHIFT` as a modifier (e.g. `SHIFT + ENTER` for the ENB menu).
+Any key highlighted in green has `SHIFT` as a modifier.
 
 Sprint and dodge are mapped to the same button. Tap it to dodge, or press and hold to sprint. Dodge also has a second mapping on the mouse, as seen in the above image.
 
-Note that dodge will only work if you have the required perk. See the [gameplay guide](https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md).
+Note that dodge will only work if you have the required perk. See the [gameplay guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md).
 
 You can press `F11` in-game to access this menu at any time.
 
@@ -372,7 +354,7 @@ MCMs have been pre-configured. Wait until you receive a "configuration complete"
 
 Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
 
-You will spawn in a cell. **Wait until you see a "configuration complete" pop-up** before continuing. If you wish to edit your character again, you can activate the Runic Stone located on the wall near the door. Otherwise, interact with the Statue of Azura to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options.
+You will spawn in a cell. **Wait until you see a "configuration complete" pop-up** before continuing. If you wish to edit your character again, you can activate the Runic Stone located on the wall near the door. Otherwise, interact with the Statue of Azura to select your starting point. You can go through the vanilla intro sequence if you want, but We recommend exploring all the options.
 
 Once you've selected your start, activate the Arcane Circle on the floor to enter the world.
 
@@ -380,15 +362,15 @@ You can activate the Select Traits power in your magic menu to select up to two 
 
 ### Gameplay Guide
 
-The gameplay guide can be viewed [here](https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md). It includes a more in-depth explanation of what the list is actually trying to do, along with breaking down the different gameplay overhauls, quest mods, and other mods to pay attention to.
+The gameplay guide can be viewed [here](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md). It includes a more in-depth explanation of what the list is actually trying to do, along with breaking down the different gameplay overhauls, quest mods, and other mods to pay attention to.
 
 ### Note for Content Creators
 
-Some of the added music in the list cannot be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend disabling in-game music with the audio slider.
+Some of the added music in the list cannot be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, We recommend disabling in-game music with the audio slider.
 
 ## Updating the List
 
-Before updating, please check the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new save after certain updates, this will be indicated in the changelog.
+Before updating, please check the [changelog](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new save after certain updates, this will be indicated in the changelog.
 
 Updating is like installing the list. Just make sure your paths are the same.
 
@@ -401,31 +383,32 @@ Simply delete the folder, and you have uninstalled the list.
 
 ## Known Issues
 
-Please refer to the [issues](https://github.com/Geborgen/nordic-souls/issues) tab before reporting an issue. Additionally, common bugs will be discussed on Discord. 
+Please refer to the [issues](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/issues) tab before reporting an issue. Additionally, common bugs will be discussed on Discord. 
 
-Keep in mind that although I try to fix issues as they come up, I cannot fix everything. Additionally, please be patient with support, as this is a hobby and schedules may be different.
+Keep in mind that although We try to fix issues as they come up, We cannot fix everything. Additionally, please be patient with support, as this is a hobby and schedules may be different.
 
 If your issue isn't listed, see below.
 
 ## I found a bug!
 
-Visit the [issues](https://github.com/Geborgen/nordic-souls/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided.
+Visit the [issues](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided.
 
 ## Changelog
 
-To see the changes and version history, visit the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md).
+To see the changes and version history, visit the [changelog](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/CHANGELOG.md).
 
 ## FAQ
 
-Please refer to the [FAQ](https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md) before asking for support.
+Please refer to the [FAQ](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/FAQ.md) before asking for support.
 
 ## Credits and Thanks
 
 - YOU for reading this.
 - All mod authors for their hard work.
 - Halgari and the Wabbajack team for making this awesome tool.
-- Other Wabbajack list authors for their help and inspiration and answering all my questions.
-- The community helpers and moderators in my Discord server for their amazing assistance with ideas, testing, and community support.
+- Other Wabbajack list authors for their help and inspiration and answering all our questions.
+- The community helpers and moderators in our Discord server for their amazing assistance with ideas, testing, and community support.
 - The beta testers who helped make the list the best it can be.
 - Everyone who has played the list that has helped in some way, by finding issues and contributing ideas.
 - Based Department (you know who you are).
+- Most importantly: Jack(a.k.a Geborgen) for letting us make this fork and be part of his community, as well as creating this beautiful list.

@@ -31,9 +31,9 @@
 - TrueHUD pickup notifications now use I4 icons
 
 ### Fixes
-- Dismembering Framework doesn't work for Draugr ([#133](https://github.com/Geborgen/nordic-souls/issues/133))
+- Dismembering Framework doesn't work for Draugr ([#133](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/issues/133))
 - Paarthurnax - Quest Expansion might not work properly
-- Using controller right stick on map causes it to bug out ([#130](https://github.com/Geborgen/nordic-souls/issues/130))
+- Using controller right stick on map causes it to bug out ([#130](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/issues/130))
 
 <details>
 <summary>Details (expand)</summary>
