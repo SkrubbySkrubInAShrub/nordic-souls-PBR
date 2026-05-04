@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NordicSoulsBanner.png",
+      "image": "https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR",
       "download": "https://authored-files.wabbajack.org/Nordic%20Souls%203%20PBR.wabbajack_3f293e11-4344-4d99-9b6e-80a4470f2eeb",
       "machineURL": "NordicSoulsPBR",
