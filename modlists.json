@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Nordic Souls PBR",
     "description": "PBR conversion of Nordic Souls, using the latest CS exclusive features",
     "author": "SkrubbySkrubInAShrub, Meteor, Geborgen",
@@ -9,33 +8,39 @@
       "github/imightbemeteor"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
       "DLC Required",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR",
-      "download": "https://authored-files.wabbajack.org/Nordic%20Souls%203%20PBR.wabbajack_3f293e11-4344-4d99-9b6e-80a4470f2eeb",
+      "download": "https://authored-files.wabbajack.org/Nordic Souls 3 PBR.wabbajack_83d18b72-1600-48ec-a4c8-5bf88959fd60",
       "machineURL": "NordicSoulsPBR",
-      "discordURL": "https://discord.gg/9cRs3KPyuW"
+      "discordURL": "https://discord.gg/9cRs3KPyuW",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "kHBUoB0NT9s=",
-      "Size": 3978392335,
+      "Hash": "6YUeQnGuqvw=",
+      "Size": 3978392855,
       "NumberOfArchives": 1936,
-      "SizeOfArchives": 157617080214,
+      "SizeOfArchives": 157617046445,
       "NumberOfInstalledFiles": 221864,
-      "SizeOfInstalledFiles": 254138119200,
-      "TotalSize": 411755199414
+      "SizeOfInstalledFiles": 254138190817,
+      "TotalSize": 411755237262
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-05-05T21:27:44.3332894Z",
+    "repositoryName": ""
   }
 ]
