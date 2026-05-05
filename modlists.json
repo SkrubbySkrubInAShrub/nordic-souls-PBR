@@ -27,7 +27,12 @@
       "machineURL": "NordicSoulsPBR",
       "discordURL": "https://discord.gg/9cRs3KPyuW",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "445506",
+        "slug": "nqrb2k",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "6YUeQnGuqvw=",
