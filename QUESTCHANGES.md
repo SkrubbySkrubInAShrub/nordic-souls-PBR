@@ -10,7 +10,7 @@
   <a href="https://loadorderlibrary.com/lists/nordic-souls-3-0-1-pbr-edition">Modlist</a> |
   <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
   <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
-  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/PERFORMANCEGUIDE.md">Modification Guide</a> |
+  <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/PERFORMANCEGUIDE.md">Performance Guide</a> |
   <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/FAQ.md">FAQ</a>
 </p>
