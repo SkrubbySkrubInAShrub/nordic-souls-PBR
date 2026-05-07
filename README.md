@@ -46,6 +46,7 @@
 - [Post-Installation](#post-installation)
   - [Stock Game and Root Builder](#stock-game-and-root-builder)
   - [Antivirus Exeptions](#antivirus-exceptions)
+  - [HDT-SMP](#hdt-smp)
   - [Customizing the List](#customizing-the-list)
     - [Optional Files](#optional-files)
     - [Widescreen Support](#widescreen-support)
@@ -244,6 +245,21 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 5. Click the `Add an exclusion` button at the top and choose `Folder`.
 6. Navigate to your installation folder for the list and click `Select Folder`.
 
+### HDT-SMP
+
+This list uses HDT-SMP for object physics, which is a relatively demanding effect and can
+consume a significant portion of CPU resources. By default, it is configured to use the AVX
+instruction set, which is the most broadly supported option.
+
+If your CPU is more modern, it may support faster instruction sets. You can switch to a different
+one by reinstalling the mod: right-click it in MO2 and select **Reinstall Mod**.
+
+### Paper map
+
+We have disabled the paper mad by default for this list. This is due to the UI icons in use getting lost against the bright paper map.
+If you want to use it anyway, we kept it in and you can just re-enable those mods under the **Paper Map** separator.
+Make sure that the plugins are loaded at the bottom of the plugin load order.
+
 ### Customizing the List
 
 **Other than what is mentioned here, modifying the list in any way will void all support.** We cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they must load **above** the `Lighting` separator. The paper map plugins should always be at the very bottom of your load order.
@@ -254,7 +270,7 @@ Game settings and mod configs can be found in the `NS - Game Settings` mod under
 
 #### Optional Files
 
-Under the `Optional Files` separator, you can enable and disable things to your liking. 
+Under the `Optional Files` separator, you can enable and disable things to your liking.
 
 #### Widescreen Support
 
