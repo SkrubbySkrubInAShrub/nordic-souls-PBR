@@ -27,21 +27,17 @@
 
 **A:** Reinstall the list to verify any missing/broken files. If you still have issues, go back and make sure you have all prerequisits (.NET, etc.). Install them even if you think you have them. **Make sure you have disabled OneDrive.**
 
-## Q: Why is my game window super zoomed-in?
-
-**A:** Go to your `Game Root` folder, right-click `SkyrimSE.exe`, go to `Properties`, and follow the steps outlined [here](https://raw.githubusercontent.com/Lost-Outpost/resources/main/skyrim-scaling.png).
-
 ## Q: Why is my map purple/missing?
 
-**A:** You have a plugin loading below the paper map plugins. Either reinstall the list to restore the load order, or refer to the [modification guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
+**A:** You have a plugin loading below the paper map plugins. Refer to the [modification guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
 
 ## Q: How do I change my FOV?
 
-**A:** Use the FOV console command like normal (`fov x x`) (yes, input the value twice). Then, change your FOV in the `Improved Alternate Conversation Camera` MCM so it doesn't reset when you enter and leave dialogue.
+**A:** Use use the tool in the F1 menu.
 
 ## Q: How do I change my brightness?
 
-**A:** In the ENB menu, go to the `ENVIRONMENT` category, and edit settings such as `AmbientLightingIntensityDay` and `AmbientLightingIntensityNight`. You can also find settings for interiors, if interiors are too dark. If you break something, you can press `LOAD CONFIGURATION` at the top to restore your previous configuration, or reinstall the list to reset everything to default.
+**A:** In the game settings you can adjust the brightness just like you would in vanilla skyrim.
 
 ## Q: I've modified INI settings, why are they not applying?
 
