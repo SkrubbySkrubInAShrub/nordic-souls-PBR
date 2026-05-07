@@ -27,7 +27,7 @@
 
 ## What is Nordic Souls?
 
-1200+ mods can change the game quite a bit. However, I should preface this by reiterating that this list does NOT try to turn Skyrim into another game. Instead, it tries to modernize Skyrim in a way that *makes sense*. Everything has been carefully selected to fit into Skyrim's atmosphere, and the mods play together nicely, with minimal consistency issues and unnecessary fluff. Despite this, every aspect of the game has been touched in some way, bringing a familiar yet new experience.
+1700+ mods can change the game quite a bit. However, I should preface this by reiterating that this list does NOT try to turn Skyrim into another game. Instead, it tries to modernize Skyrim in a way that *makes sense*. Everything has been carefully selected to fit into Skyrim's atmosphere, and the mods play together nicely, with minimal consistency issues and unnecessary fluff. Despite this, every aspect of the game has been touched in some way, bringing a familiar yet new experience.
 
 Nordic Souls is fully SFW. Mods like CBBE with the 3BA add-on are included (with a realistic preset), but never-nude options are enabled and there are no skimpy armors or overly-sexualized body meshes.
 
@@ -168,7 +168,7 @@ A few high-quality DLC-sized quest mods are included, with a bunch of smaller ad
 
 Nordic Souls includes some of the best custom followers available, and overhauls vanilla follower systems as well.
 
-- [Busy Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/112076) aims to provide the most immersive and intuitive experience for base followers in the game by enhancing their base functionality and adding additional features such as renaming, home assignment, outfits, teaching, looting and much more.
+- [Simple Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/174017) is a simplified follower framework that improves on the follower systemw ithout introducing bugs or feature bloat.
 - [Swiftly Order Squad](https://www.nexusmods.com/skyrimspecialedition/mods/63259) adds a neat UI to quickly manage followers. Press `L` or find it in the tween menu.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. You can find him in the Riften prison.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a traditionalist Wood Elf archer. You can find her house somewhere in the Falkreath pine forest.
