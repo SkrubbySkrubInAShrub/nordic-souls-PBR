@@ -46,13 +46,13 @@ This is not a modding guide. If you need a modding guide, there are many good re
 
 Nordic Souls has a carefully tuned load order, and as such, **you should *not* run LOOT** to sort mods. The full version of LOOT is not even installed. Do not use MO2's "sort" feature. *You should manually build around the existing load order.*
 
-Know what mods you're adding. Read the mod pages, they should tell you where to place plugins, if it matters at all. Basic mods like armor sets generally don't matter. For the sake of this list, all plugins should be placed **above** `Water for ENB (Shades of Skyrim).esp`.
+Know what mods you're adding. Read the mod pages, they should tell you where to place plugins, if it matters at all. Basic mods like armor sets generally don't matter. For the sake of this list, all plugins should be placed **above** the `Lighting` separator.
 
 If you're comfortable with xEdit, you can use xEdit to check conflicts for mods you add. This can help determine proper load order.
 
 The paper map plugins (`FWMF for Fantasy Paper Maps.esp` and all subsequent FWMF plugins) must be placed at the **very bottom** of the load order *at all times*, no exceptions. They must always be the last plugins to load, or else the map will be a blank purple (missing textures). If your map is missing or broken, double check that zero plugins load below the paper map.
 
-If you think you messed up the load order, check the [Load Order Library link](https://loadorderlibrary.com/lists/nordic-souls) and expand `plugins.txt` to compare. It will always be on the latest version, so it might not be entirely accurate if you're modifying an earlier build.
+If you think you messed up the load order, check the [Load Order Library link](https://loadorderlibrary.com/lists/nordic-souls-3-0-1-pbr-edition) and expand `plugins.txt` to compare. It will always be on the latest version, so it might not be entirely accurate if you're modifying an earlier build.
 
 ### Game Root
 
@@ -90,18 +90,14 @@ To run Synthesis, simply run the program, check whichever group you wish to gene
 
 ### ParallaxGen
 
-PGPatcher, a.k.a. ParallaxGen, needs to be run if you add mods that add new meshes or change any meshes. This tool will enable Complex Material on meshes, among other fixes. You will need to use different settings if you use CS or ENB, see below.
+PGPatcher, a.k.a. ParallaxGen, needs to be run if you add mods that add new meshes or change any meshes. This tool will enable PBR Materials on meshes, among other fixes.
 
 <details>
 <summary>Nordic Souls PG Settings (expand)</summary>
 
-### ParallaxGen Settings for ENB
+### ParallaxGen Settings
 
-![PG Settings ENB](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20ENB.png)
-
-### ParallaxGen Settings for CS
-
-![PG Settings CS](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20CS.png)
+![PG Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20CS.png)
 
 </details>
 
