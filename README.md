@@ -1,5 +1,3 @@
-# Changelog
-
 ![Banner](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png)
 
 <p align="center">
@@ -238,6 +236,7 @@ The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspeci
 Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will very likely need to fully remove them from your PC in order to actually launch the game through MO2.
 
 If you use Windows Defender, it is advised that you set up an Exception for the modlist. Please follow these steps:
+
 1. Press the Windows key, type `Windows Defender` in the search bar and select `Windows Security`.
 2. Click on `Virus & threat protection` in the left pane.
 3. Click the `Manage settings` option under `Virus & threat protection settings`.
@@ -358,7 +357,7 @@ You can activate the Select Traits power in your magic menu to select up to two 
 
 ### Gameplay Guide
 
-The gameplay guide can be viewed [here](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md). It includes a more in-depth explanation of what the list is actually trying to do, along with breaking down the different gameplay overhauls, quest mods, and other mods to pay attention to.
+The [gameplay guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/GAMEPLAYGUIDE.md) includes a more in-depth explanation of what the list is actually trying to do, along with breaking down the different gameplay overhauls, quest mods, and other mods to pay attention to.
 
 ### Note for Content Creators
 

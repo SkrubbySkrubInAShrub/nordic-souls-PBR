@@ -1,5 +1,3 @@
-# Changelog
-
 ![Banner](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png)
 
 <p align="center">
