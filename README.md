@@ -194,7 +194,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. We recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation:
 
 1. Create a folder near the root of your drive called `Nordic Souls`.
-2. Open Wabbajack, go to `Browse lists`, find Nordic Souls PBR, and click the download arrow. Alternatively, download the .wabbajack file from the [nexus collection](https://www.nexusmods.com/games/skyrimspecialedition/collections/nqrb2k) or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/158119), add it to your Wabbajack folder, and open it.
+2. Open Wabbajack, go to `Browse lists`, tick `Non-featured`, find Nordic Souls PBR, and click the download arrow. Alternatively, download the .wabbajack file from the [nexus collection](https://www.nexusmods.com/games/skyrimspecialedition/collections/nqrb2k) or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/158119), add it to your Wabbajack folder, and open it.
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Nordic Souls`).
 4. Your downloads folder should be set automatically. If it isn’t, set it to either `Nordic Souls\downloads` or another location. It can even be on another drive.
 5. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 1700 mods.*
