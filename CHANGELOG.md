@@ -16,6 +16,102 @@
 ## Contents
 
 - [Version 1.3.0](#version-130)
+- [Version 1.3.1](#version-131)
+
+## Version 1.3.1
+
+**This update is probably not save safe.**
+
+### Weapons and Armors
+- Added some skypatcher/sentinel addons for various armors so they integrate better with the rest of the game.
+
+### PBR Updates
+- Added Umbra PBR
+- Updated Tomatorim PBR
+
+### Characters
+- Updated a bunch of character overhauls to their latest versions
+
+### Removals
+- Removed the carriable lanterns as they are causing a crash that we can't solve right now.
+
+### Fixes
+- Fixed random freezes: busted facegen was causing broken characters
+- Fixed naked followers when looted
+- Tweaked CS settings to reduce glossy skin
+- Lydia has hands again
+
+<details>
+<summary>Details (expand)</summary>
+
+### Summary
+- **Added:** 7 mods
+- **Removed:** 12 mods
+- **Updated:** 35 mods
+- **Redundant (MIC-included):** 0 mods
+
+*Note: Mesh Improvement Compilation detected. Individual mesh fix mods included in MIC have been filtered from Added/Removed/Updated sections.*
+
+## Added Mods
+
+### Armors & Clothing
+- Umbra PBR
+
+### New Armors
+- NS - Illusive Infiltrator Armor - Sentinel Addon
+
+### Followers & NPCs
+- NS PBR - Jordis Silver Armor Skypatched
+- NS PBR - Lydia Fluted Armor Skypatched
+
+### Community Shaders
+- HDR - Community Shaders
+
+### Final Patches
+- NS PBR - SerketHetyt Patches
+
+## Removed Mods
+
+- Children of the First - Muril Facegen Hotfix
+- Fluted Armor - SE by Xtudo - Lydia Outfit SPID
+- Fluted Armor - SE by Xtudo - Shield Broadsword ESL
+- Grass Collision - Community Shaders
+- Grass Lighting - Community Shaders
+- Screen Space Shadows - Community Shaders
+- Subsurface Scattering - Community Shaders
+- Torches Candlelight and Simple Lanterns - Disable Fuel
+
+## Updated Mods
+
+- CommunityShaders_AIO
+- Children of Dawn's Beauty - A Resource for Certain Mods: 2.3 → 2.3.1
+- Children of the Ash - A Dunmer NPC Overhaul: 2.0 → 2.01
+- Children of the First - An Altmer NPC Overhaul: 2.0 → 2.1.4
+- Children of the Green - A Bosmer NPC Overhaul: 2.0 → 2.01
+- Cloud Shadows - Community Shaders: 1.2 → 1.4
+- Community Shaders: 1.4.11 → 1.5.2
+- Crash Logger SSE AE VR - PDB support: 1.21 → 1.22
+- First Person FOV and Tween Menu Fix SKSE: 1.0.9 → 1.0.10
+- Hair Specular - Community Shaders: 1.0.3 → 1.1
+- ISL Helper SKSE: 1.0 → 1.0.2
+- KS Hairdos - HDT SMP (Physics): 1.4.4 → 1.5
+- Light Placer: 4.2 → 4.2.1
+- Mistress - A Astrid and Initiates Visual Replacer: 1.0 → 1.1
+- Mistress - Initiates Visual Replacer: 1.0 → 1.1
+- Open Animation Replacer: 3.0.2 → 3.1.5
+- Screen Space Global Illumination (SSGI) - Community Shaders: 4.0.1 → 4.1
+- Sky Sync - Community Shaders: 1.0 → 1.1
+- Skylighting - Community Shaders: 1.2.3 → 1.3
+- SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF): 3.5 → 3.5.3
+- Spell Perk Item Distributor: 7.2.1 → 7.3
+- State Behavior Framework: 1.4 → 1.5.1
+- Steel Armor Redone PBR (2K): 1.1 → 1.2
+- Terrain Blending - Community Shaders: 1.0.1 → 1.1
+- TomatoRim PBR - Landscapes 2K: 1.41.PBR → 1.6.PBR
+- Upscaling - Community Shaders: 1.2 → 1.3.1
+- Wetness Effects - Community Shaders: 3.0 → 3.1
+
+</details>
 
 ## Version 1.3.0
 
@@ -485,7 +581,5 @@
 - WIO Wheeler Icons Overhaul: 1.0 → 1.12
 - Wounds Overlays For RaceMenu: 1.0 → 1.1
 - XEMI Utility: 1.3 → 1.4
-
-
 
 </details>
