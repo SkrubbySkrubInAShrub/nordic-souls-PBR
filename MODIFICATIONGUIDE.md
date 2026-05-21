@@ -28,7 +28,7 @@
 
 ## Preamble
 
-You are not guaranteed official support for modifying the list in any way, and you will void support for issues you encounter if you do. As mentioned in the [readme](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/README.md), Wabbajack's "rule 11" states that any modifications you make are done at your own risk. 
+You are not guaranteed official support for modifying the list in any way, and you will void support for issues you encounter if you do. As mentioned in the [readme](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/README.md), Wabbajack's "rule 11" states that any modifications you make are done at your own risk.
 
 In the case of Nordic Souls, the list is often praised for how easily modifiable it is and how active the community around it is as well, so if you follow a few general guidelines and have a basic understanding of modding, you should have no trouble making the list your own.
 
@@ -110,17 +110,20 @@ Please refer to [Althro's written guide](https://github.com/The-Animonculory/Mod
 
 ### xLODGen Settings
 
-![xLODGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS%20xLODGen%20Settings.png)
+![xLODGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS-PBR-Settings-xLODGen-LOD_4.png)
+![xLODGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS-PBR-Settings-xLODGen-LOD_8.png)
+![xLODGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS-PBR-Settings-xLODGen-LOD16.png)
+![xLODGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS-PBR-Settings-xLODGen-LOD32.png)
 
 For xLODGen, make sure every worldspace is selected on the left panel. Also make sure ONLY `Terrain LOD` is checked, don't generate anything else with this tool.
 
 ### TexGen Settings
 
-![TexGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS%20TexGen%20Settings.png)
+![TexGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS-PBR-Settings-TexGen.png)
 
 ### DynDOLOD Settings
 
-![TexGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS%20DynDOLOD%20Settings.png)
+![TexGen Settings](https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/refs/heads/main/.github/NS-PBR-Settings-DynDOLOD.png)
 
 For DynDOLOD, additional steps may be needed to ensure LODs generate in Bruma. By default the `BSHeartland` worldspace is ignored. To enable the worldspace, edit `Nordic Souls\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Configs\DynDOLOD_SSE_worldspace_ignore.txt` and remove/change the line `BSHeartland.esm;000A764B;BSHeartland`. Just adding an X in front would be enough for it to show in the world selection menu again. (Copied from the [Bruma - All Fixes for Custom LODs](https://www.nexusmods.com/skyrimspecialedition/mods/143795) mod page.)
 
