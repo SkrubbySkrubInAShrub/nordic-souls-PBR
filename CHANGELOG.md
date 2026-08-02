@@ -59,6 +59,7 @@
 - [Full changelog](changelog/v1.5.0/changelog.md) — complete added/removed/updated mod lists
 - [Diff report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.5.0/diff.html) — full modlist diff
 - [Coverage report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.5.0/coverage.html) — coverage details
+- [Load order](loadorder/v1.5.0/) — load order, modlist, plugin groups, and plugins files
 
 ## Version 1.3.1
 
