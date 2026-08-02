@@ -26,6 +26,14 @@
 ### Core
 - Rebased the list on Nordic Souls 3.1.1
 
+### Community Shaders - NS PBR Edition
+- Upgraded Community Shaders to a custom build based on the latest dev version of CS, bringing ENB post-processing support plus some extra goodies: the return of contact shadows and improved terrain parallax
+- Now using Rudy ENB for Obsidian — it's not a perfect fit and some stuff is missing, so the preset has been lightly edited to make it work acceptably
+
+### Faster Load Times
+- Added Cached Recursive Directory Walk, which caches the game's file loading and significantly improves load speed. It needs to build a cache on first launch — when the game asks, tell it yes
+- After that first launch, you can disable the popup: in MO2 go to General Settings → NS - Game settings mod → `SKSE\Plugins\CRDW.ini` and change `ShowPopUp=b:true` to `ShowPopUp=b:false`. As long as your files don't change, the game will now load very fast
+
 ### Characters
 - Major NPC appearance changeover: Men/Women/True Sons of Skyrim Refined are dropped (the mods are no longer available and had assorted facegen issues) in favor of Karura's Ordinary People Refined, Children of the Wave, Resplendent Royals, and Beef Unending's Civil War replacers
 - Salt and Wind hair removed for the Vanilla Hair Remake SMP path
