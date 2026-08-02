@@ -15,8 +15,42 @@
 
 ## Contents
 
+- [Version 1.5.0](#version-150)
 - [Version 1.3.1](#version-131) a.k.a. 1.4.0
 - [Version 1.3.0](#version-130)
+
+## Version 1.5.0
+
+**This update is not save-safe.**
+
+### Core
+- Rebased the list on Nordic Souls 3.1.1
+
+### Characters
+- Major NPC appearance changeover: Men/Women/True Sons of Skyrim Refined are dropped (the mods are no longer available and had assorted facegen issues) in favor of Karura's Ordinary People Refined, Children of the Wave, Resplendent Royals, and Beef Unending's Civil War replacers
+- Salt and Wind hair removed for the Vanilla Hair Remake SMP path
+
+### PBR Updates
+- New PBR city overhauls: Tomato's Riften, Solitude Remastered, and Windhelm, plus Imperial Forts Remake PBR
+- Big batch of Skyrim 3D clutter with PBR: furniture, misc objects, rocks, carts, sacks, silverworks, and candlehorns
+
+### Quests and Content
+- Added The Halls of Rielle (Beyond Skyrim: Bruma), Olenveld, and the Heart's Toll and War's Folly quest mods
+- Big VIGILANT and Unslaad polish pass: Xtudo add-ons, Molag Bal voice unification, NPCs Refined updates
+
+### Gameplay
+- Camping Plus Plus replaces CC Camping Expansion
+- New UI additions: LoreBox and Dynamic Tooltips, Character Suggestor, Norden UI map markers
+
+### Summary
+- **Added:** 182 mods
+- **Removed:** 58 mods
+- **Updated:** 157 mods
+
+### Detailed Reports
+- [Full changelog](changelog/v1.5.0/changelog.md) — complete added/removed/updated mod lists
+- [Diff report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.5.0/diff.html) — full modlist diff
+- [Coverage report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.5.0/coverage.html) — coverage details
 
 ## Version 1.3.1
 
