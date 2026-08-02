@@ -15,8 +15,8 @@
 
 ## Contents
 
+- [Version 1.3.1](#version-131) a.k.a. 1.4.0
 - [Version 1.3.0](#version-130)
-- [Version 1.3.1](#version-131)
 
 ## Version 1.3.1
 
