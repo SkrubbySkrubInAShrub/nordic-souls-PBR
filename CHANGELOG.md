@@ -15,9 +15,46 @@
 
 ## Contents
 
+- [Version 1.6.0](#version-160)
 - [Version 1.5.0](#version-150)
 - [Version 1.3.1](#version-131) a.k.a. 1.4.0
 - [Version 1.3.0](#version-130)
+
+## Version 1.6.0
+
+**This update is probably not save-safe.**
+
+### Gameplay Overhauls
+- Major Simonrim refresh: Adamant 6, Blade and Blunt 4, Hand to Hand 2, Starfrost 2, plus Mysticism, Thaumaturgy, Pilgrim, Mundus, and Aetherius updates
+- Added Apprentice - A Class Overhaul, Lost Arcana (Anniversary Edition spells for Simonrim), and the Adamant Evasion, Spell Speed, and Power Attack Speed addons
+- Swapped Blazing's Ascension for Ascension - Adamant 6 Patch
+- Removed Biggie Traits and its patches, along with NS - Agility Expansion
+
+### Horses and Followers
+- Swapped A Horse's Life for Simplest Horses, and followers now ride horses
+
+### Characters
+- Vampire fixes: headpart fix for High Poly Head, Assorted Vampire Fixes and Tweaks, and vampire eye glow removal hotfixes for the Children of... NPC overhauls
+- New NS PBR - NPC Merge output built with AutoBlend
+
+### Animations
+- Added Vanargand Animations II sword sets (non-combat locomotion, low stance, normal attacks) and updated TK Dodge RE, OAR, and Pandora
+
+### Community Shaders
+- Community Shaders 1.8.3 with the new Effects 11 and Terrain Helper modules; Cloud Shadows module removed
+
+### PBR Updates
+- Updated Tomato's PBR Vanilla Trees, Tomato's Whiterun Remake, Draugrs PBR, Legacy of Ysgramor PBR, Realistic Armor PBR, and Sons of Skyrim PBR
+
+### Summary
+- **Added:** 41 mods
+- **Removed:** 20 mods
+- **Updated:** 69 mods
+
+### Detailed Reports
+- [Full changelog](changelog/v1.6.0/changelog.md) — complete added/removed/updated mod lists
+- [Diff report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.6.0/diff.html) — full modlist diff
+- [Coverage report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.6.0/coverage.html) — coverage details
 
 ## Version 1.5.0
 
