@@ -24,6 +24,8 @@
 
 **This update is probably not save-safe.**
 
+This update brings us in line with NS 3.2.0 and fixes major issues from the previous update
+
 ### Gameplay Overhauls
 - Major Simonrim refresh: Adamant 6, Blade and Blunt 4, Hand to Hand 2, Starfrost 2, plus Mysticism, Thaumaturgy, Pilgrim, Mundus, and Aetherius updates
 - Added Apprentice - A Class Overhaul, Lost Arcana (Anniversary Edition spells for Simonrim), and the Adamant Evasion, Spell Speed, and Power Attack Speed addons
@@ -32,19 +34,23 @@
 
 ### Horses and Followers
 - Swapped A Horse's Life for Simplest Horses, and followers now ride horses
+- Updated Simple follower framework
 
 ### Characters
 - Vampire fixes: headpart fix for High Poly Head, Assorted Vampire Fixes and Tweaks, and vampire eye glow removal hotfixes for the Children of... NPC overhauls
-- New NS PBR - NPC Merge output built with AutoBlend
+- Fixed broken NPCs
 
 ### Animations
 - Added Vanargand Animations II sword sets (non-combat locomotion, low stance, normal attacks) and updated TK Dodge RE, OAR, and Pandora
 
 ### Community Shaders
-- Community Shaders 1.8.3 with the new Effects 11 and Terrain Helper modules; Cloud Shadows module removed
+- New optimized grass: more range, for much less performance cost. 
 
 ### PBR Updates
 - Updated Tomato's PBR Vanilla Trees, Tomato's Whiterun Remake, Draugrs PBR, Legacy of Ysgramor PBR, Realistic Armor PBR, and Sons of Skyrim PBR
+
+### Cached Recursive Directory Walk
+- Cached Recursive Directory Walk now runs passively
 
 ### Summary
 - **Added:** 41 mods
