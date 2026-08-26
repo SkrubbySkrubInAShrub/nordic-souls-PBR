@@ -23,7 +23,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/SkrubbySkrubInAShrub/nordic-souls-PBR/main/.github/NordicSoulsBanner.png",
       "readme": "https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR",
-      "download": "https://authored-files.wabbajack.org/Nordic Souls 3 PBR.wabbajack_09a01f0c-5804-46af-83e9-15ccaf11a9aa",
+      "download": "https://authored-files.wabbajack.org/Nordic Souls 3 PBR.wabbajack_c0e6e4b8-6d75-4e81-a299-a99149e7b9b8",
       "machineURL": "NordicSoulsPBR",
       "discordURL": "https://discord.gg/9cRs3KPyuW",
       "websiteURL": "",
@@ -35,17 +35,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "sXGgHhGgi7s=",
-      "Size": 4568225153,
-      "NumberOfArchives": 2038,
-      "SizeOfArchives": 166163081959,
-      "NumberOfInstalledFiles": 270896,
-      "SizeOfInstalledFiles": 261113114199,
-      "TotalSize": 427276196158
+      "Hash": "LaqnSnYcV40=",
+      "Size": 4912848466,
+      "NumberOfArchives": 2062,
+      "SizeOfArchives": 159611898288,
+      "NumberOfInstalledFiles": 307483,
+      "SizeOfInstalledFiles": 273262134223,
+      "TotalSize": 432874032511
     },
-    "version": "1.5",
+    "version": "1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-03T18:12:22.6186472Z",
+    "dateUpdated": "2026-08-26T01:13:22.1371065Z",
     "repositoryName": ""
   }
 ]
