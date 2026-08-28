@@ -23,9 +23,21 @@
 
 ## Version 1.6.1
 
-**This update is <!-- TODO: save-safe / probably not save-safe / not save-safe -->.**
+**This update is not save-safe** — the fixes required plugin changes.
 
-<!-- TODO: write highlights (### Category / - bullet sections) -->
+A bugfix release that pulls in the fixes from the Nordic Souls 3.2 release.
+
+### Fixes
+- Added GC Bug Fix (SKSE plugin)
+- Replaced the Vampire Headpart fix for High Poly Head with the Apprentice - High Poly Head - USMP patches
+- Removed FFF_SlopLOD
+
+### If you crash on load after updating
+From Jack (the original Nordic Souls author):
+- Press `WIN + R`
+- Enter `%LocalAppData%`, press `OK`
+- Find and navigate to the `Skyrim Special Edition` folder
+- Delete `ContentCatalog.txt`
 
 ### Summary
 - **Added:** 2 mods
