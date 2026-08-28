@@ -15,10 +15,27 @@
 
 ## Contents
 
+- [Version 1.6.1](#version-161)
 - [Version 1.6.0](#version-160)
 - [Version 1.5.0](#version-150)
 - [Version 1.3.1](#version-131) a.k.a. 1.4.0
 - [Version 1.3.0](#version-130)
+
+## Version 1.6.1
+
+**This update is <!-- TODO: save-safe / probably not save-safe / not save-safe -->.**
+
+<!-- TODO: write highlights (### Category / - bullet sections) -->
+
+### Summary
+- **Added:** 2 mods
+- **Removed:** 2 mods
+- **Updated:** 0 mods
+
+### Detailed Reports
+- [Full changelog](changelog/v1.6.1/changelog.md) — complete added/removed/updated mod lists
+- [Diff report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.6.1/diff.html) — full modlist diff
+- [Coverage report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.6.1/coverage.html) — coverage details
 
 ## Version 1.6.0
 
