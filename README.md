@@ -119,11 +119,11 @@ If you are just updating the list, you can safely skip to [this section](#updati
 Please complete the following steps:
 
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 9.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (both `console apps` and `desktop apps` x64).
+2. Install [Microsoft .NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win-x64&os=win10), [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer), [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.400-windows-x64-installer), and [.NET 10.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.11-windows-x64-installer).
 3. Fully disable OneDrive and any other programs that hook into user file areas.
 4. Reinstall Skyrim into a location that is not Program Files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide). You should have the latest version of Skyrim, version `1.6.1170`. **Do not verify file integrity, as this will cause issues.**
 5. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-6. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
+6. Right click Skyrim in Steam, click `Properties`, turn OFF `Enable the Steam overlay while in-game`.
 
 #### Pagefile and Crash Prevention
 
@@ -226,6 +226,9 @@ If you are still having issues, visit the [Wabbajack Discord](https://discord.co
 ## Post-Installation
 
 ### Stock Game and Root Builder
+
+> [!NOTE]
+> This section is purely for your information. These are no steps to follow here. This is all preconfigured.
 
 Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md) method. This is essentially a copy of Skyrim included with the installation folder. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed). The folder in question is called `Game Root`, located at `Nordic Souls\Game Root`.
 
@@ -347,13 +350,11 @@ MCMs have been pre-configured. Wait until you receive a "configuration complete"
 
 ### Starting the Game
 
-Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
+Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own. You will also be able to select a class and a trait within the character creator.
 
 You will spawn in a cell. **Wait until you see a "configuration complete" pop-up** before continuing. If you wish to edit your character again, you can activate the Runic Stone located on the wall near the door. Otherwise, interact with the Statue of Azura to select your starting point. You can go through the vanilla intro sequence if you want, but We recommend exploring all the options.
 
 Once you've selected your start, activate the Arcane Circle on the floor to enter the world.
-
-You can activate the Select Traits power in your magic menu to select up to two unique character building traits, if you so wish.
 
 ### Gameplay Guide
 
@@ -386,7 +387,7 @@ If your issue isn't listed, see below.
 
 ## I found a bug!
 
-Visit the [issues](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided.
+Visit the [issues](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided. Please do not use this to ask for support; only report genuine, reproducible bugs.
 
 ## Changelog
 

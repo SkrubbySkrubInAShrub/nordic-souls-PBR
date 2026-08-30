@@ -48,6 +48,7 @@ From Jack (the original Nordic Souls author):
 - [Full changelog](changelog/v1.6.1/changelog.md) — complete added/removed/updated mod lists
 - [Diff report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.6.1/diff.html) — full modlist diff
 - [Coverage report](https://skrubbyskrubinashrub.github.io/nordic-souls-PBR/changelog/v1.6.1/coverage.html) — coverage details
+- [Load order](loadorder/v1.6.1/) — load order, modlist, plugin groups, and plugins files
 
 ## Version 1.6.0
 
