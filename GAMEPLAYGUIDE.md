@@ -76,6 +76,8 @@ The traits are designed in such a way that, if you decide to switch your build l
 
 The dodge key is bound to sprint, so tap `Alt` to dodge, and hold it to sprint. If you have a mouse with side buttons, you can also press `M5` to dodge. If you use gamepad, tap `LB` to dodge, and hold it to sprint. To edit the keybinds, find the `TK Dodge` MCM.
 
+By default, the dodge style is set to step dodge. If you want to switch to a roll, you can go to `Nordic Souls\mods\NS - Game Settings\SKSE\Plugins\TK Dodge RE.ini` and set `StepDodge` to `false`.
+
 </details>
 
 <details>
