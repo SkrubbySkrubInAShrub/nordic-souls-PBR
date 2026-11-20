@@ -25,13 +25,19 @@
 
 **A:** Reinstall the list to verify any missing/broken files. If you still have issues, go back and make sure you have all prerequisits (.NET, etc.). Install them even if you think you have them. **Make sure you have disabled OneDrive.**
 
+If you're still crashing, it may be an issue related to recent Skyrim updates. Perform these steps:
+- Press `WIN + R`
+- Enter `%LocalAppData%`, press `OK`
+- Find and navigate to the `Skyrim Special Edition` folder
+- Delete `ContentCatalog.txt`
+
 ## Q: Why is my map purple/missing?
 
 **A:** You have a plugin loading below the paper map plugins. Refer to the [modification guide](https://github.com/SkrubbySkrubInAShrub/nordic-souls-PBR/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
 
 ## Q: How do I change my FOV?
 
-**A:** Use use the tool in the F1 menu.
+**A:** Press `F1` to view the SKSE Menu, and find the FOV slider in the `FirstPersonFOV` tab. Then, change your FOV in the `Improved Alternate Conversation Camera` MCM so it doesn't reset when you enter and leave dialogue.
 
 ## Q: How do I change my brightness?
 

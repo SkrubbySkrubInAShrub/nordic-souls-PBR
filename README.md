@@ -121,7 +121,7 @@ Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win-x64&os=win10), [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer), [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.400-windows-x64-installer), and [.NET 10.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.11-windows-x64-installer).
 3. Fully disable OneDrive and any other programs that hook into user file areas.
-4. Reinstall Skyrim into a location that is not Program Files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide). You should have the latest version of Skyrim, version `1.6.1170`. **Do not verify file integrity, as this will cause issues.**
+4. Reinstall Skyrim into a location that is not Program Files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide). You should have the latest version of Skyrim, version `1.7.104`. **Do not verify file integrity, as this will cause issues.**
 5. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 6. Right click Skyrim in Steam, click `Properties`, turn OFF `Enable the Steam overlay while in-game`.
 
@@ -206,12 +206,12 @@ Some common errors you may encounter during installation:
 
 - Could not download `X`:
   - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
-  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
+  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#installing-cc-content).
   - Try logging out of Nexus (in-app) and logging in again.
 - `X` is not a whitelisted download:
-  - This may happen when We update the list. Please check if there is a new update or wait if there is none.
+  - This may happen when we update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
-  - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
+  - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Installation](#installation) section.
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](#antivirus-exceptions).
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
@@ -323,6 +323,12 @@ Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown
 
 > [!CAUTION]
 > Do not "unlock" MO2 when the game is running. This will cause various issues within the game.
+
+If you crash when starting the list, please follow these steps:
+1. Press `WIN + R`
+2. Enter `%LocalAppData%`, press `OK`
+3. Find and navigate to the `Skyrim Special Edition` folder
+4. Delete `ContentCatalog.txt`
 
 #### Controls
 
